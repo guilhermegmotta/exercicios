@@ -1,0 +1,6 @@
+4-
+numero = int(input("Digite o numero"))
+contador = 1
+while contador <= 1:
+    print(f"{numero} x {contador} = {resultado}")
+

@@ -1,0 +1,9 @@
+3-
+usuario = input("Escolha um nome de usuário: ")
+senha = int(input("Escolha uma senha: "))
+print("Bem-Vindo de volta")
+usoario = input("Coloque seu nome de usuário: ")
+senha1 = str and int(input("Coloque sua senha, por favor:"))
+while user1 != user and senha1 != senha:
+    usoario = int(input("Senha ou nome de usuario incorreto "))
+senha1 = str and int(("Senha ou nome de usuario incorreto "))
