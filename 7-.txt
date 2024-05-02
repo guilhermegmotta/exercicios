@@ -1,0 +1,7 @@
+7-
+numero = int(input("Digite um numero: "))
+contador = 2
+while contador < numero:
+  contador += 2
+  print(contador)
+contador = 10
