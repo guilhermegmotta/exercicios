@@ -1,0 +1,10 @@
+2-
+numeros = int(input("Quantos numeros voce precisara para fazer sua média: "))
+soma = 0 
+contador = 0 
+while contador < numeros:
+  lista = int(input(f"digite {contador+1} numero?"))
+  contador += 1
+  soma += lista
+  media = soma/numeros
+  print(f"Soma dos numeros: {soma} \n media dos numeros: {media}")

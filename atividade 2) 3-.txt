@@ -1,0 +1,6 @@
+3-
+n = input("Digite seu nome")
+s = int(input("Digite sua senha de usuario"))
+while n != s: 
+  n = input("Senha invalida, tente novamente")
+  print("senha valida")
